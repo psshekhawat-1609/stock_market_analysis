@@ -17,7 +17,7 @@ This project analyzes historical stock price data for **Apple (AAPL)**, **Micros
 - **Python**
 - **Pandas, NumPy**
 - **Matplotlib, Seaborn**
-- **Jupyter Notebook / VS Code**
+- **Google Colab**
 - **CSV Dataset**
 
 ---
